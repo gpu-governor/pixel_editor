@@ -5,7 +5,7 @@ A pixel editor prototype built in C++ for a youtube tutorial
 https://youtu.be/-YD1YR9V2Pg?si=qUDrGgQOHsGZHqtO
 
 [-] You can also Download a pdf of the step by step guides of making the Game
-[Download Link](https://drive.google.com/file/d/10i4Qn0VslCSzQ2X4bb7zHg332Vqf4kUn/view?usp=drive_link)
+[Download Link](https://drive.google.com/file/d/14rdyuaZlfY9xJX1MhjAZcGbEbW-lWoIA/view?usp=drive_link)
 
 to run the game obtain the main.c
 ```bash
